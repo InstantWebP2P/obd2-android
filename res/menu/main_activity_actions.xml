@@ -1,0 +1,12 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    xmlns:yourapp="http://schemas.android.com/apk/res-auto" >
+    
+    <item android:id="@+id/action_diagnosis"
+          android:icon="@drawable/ic_launcher"
+          android:title="@string/action_diagnosis" />
+    
+    <item android:id="@+id/action_fuel_consumption"
+          android:icon="@drawable/ic_launcher"
+          android:title="@string/action_fuel_consumption" />
+    
+</menu>
