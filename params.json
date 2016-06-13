@@ -1,1 +1,7 @@
-{"name":"Obd2-android","tagline":"OBD2 service on Android","body":"obd2-android\r\n============\r\n\r\nOBD2 service on Android\r\n","google":"","note":"Don't delete this file! It's used internally to help with page regeneration."}
+{
+  "name": "Obd2-android",
+  "tagline": "OBD2 service on Android",
+  "body": "obd2-android\r\n============\r\n\r\nOBD2 service on Android\r\n",
+  "google": "",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
